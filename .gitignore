@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+.egg-info/
+
+# Editor and OS junk
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# SQLite DB
+*.db
+
+# Alembic
+alembic/versions/*.pyc
+
+# Test cache
+.pytest_cache/
+.cache/
+
+# Logs
+*.log
+
+# Replit
+.replit
+replit.nix
+*.replid
+
+# Uploaded resume files
+uploads/resumes/
+uploads/*.pdf
+uploads/*.docx
