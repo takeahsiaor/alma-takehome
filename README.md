@@ -78,3 +78,8 @@ To remove your local environment and DB, run:
 ```bash
 make uninstall
 ```
+
+## Replit
+I attempted to deploy via Replit and made a couple of make commands to help facilitate it but I could find no option to deploy for free. Except for the "Static Pages" option, which wouldn't be suitable, all deploy options require a Replit Core account so I will not be deploying there.
+
+Please clone this repo and use the `make` commands to get it running locally instead.
